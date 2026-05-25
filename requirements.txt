@@ -1,0 +1,17 @@
+# Backend & Orchestrator
+openai>=1.0.0
+
+# User Interface
+streamlit>=1.20.0
+
+# Document & Report Generation
+python-docx>=0.8.11
+
+# Scraper & Tools
+playwright>=1.30.0
+beautifulsoup4>=4.11.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# System utilities (built-in SQLite standard libraries are used)
